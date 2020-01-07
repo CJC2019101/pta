@@ -13,7 +13,7 @@ public class Answer1002 {
         String num = reader.nextLine();
         int sum = 0;
         for (int i = 0; i < num.length(); i++) {
-            sum += Integer.parseInt(num.charAt(i)+"");
+            sum += Integer.parseInt(num.charAt(i) + "");
         }
         String anwser = sum + "";
         for (int i = 0; i < anwser.length(); i++) {
@@ -49,7 +49,7 @@ public class Answer1002 {
                     System.out.print("ling");
                     break;
             }
-            if (i!=anwser.length()-1)
+            if (i != anwser.length() - 1)
                 System.out.print(" ");
         }
     }

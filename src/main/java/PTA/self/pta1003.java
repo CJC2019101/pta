@@ -15,7 +15,7 @@ public class pta1003 {
         for (int i = 0; i < len; i++) {
             ptas[i] = sc.next();
             for (int j = 0; j < ptas[i].length(); j++) {
-                if (ptas[i].charAt(j)!='P'&&ptas[i].charAt(j)!='A'&&ptas[i].charAt(j)!='T'){
+                if (ptas[i].charAt(j) != 'P' && ptas[i].charAt(j) != 'A' && ptas[i].charAt(j) != 'T') {
                     yesOrNot[i] = false;
                 }
             }

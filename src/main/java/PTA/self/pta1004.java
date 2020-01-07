@@ -70,7 +70,7 @@ class Student implements Comparable<Student> {
 
     @Override
     public String toString() {
-        return  this.name+" "+this.studentId;
+        return this.name + " " + this.studentId;
     }
 
     @Override
