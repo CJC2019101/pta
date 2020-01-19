@@ -3,6 +3,7 @@ package PTA.pta1004.modle;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
+import java.util.TreeSet;
 
 /**
  * @author JianfeiChen
@@ -11,6 +12,8 @@ import java.util.Set;
  */
 public class Student{
     public static void main(String[] args) {
+        AbstractClass abstractClass = new TestAbstractClass();
+        abstractClass.test();
         Set<Integer> set = new HashSet<>();
         Set<Integer> set2 = new HashSet<>();
         set.add(1);
@@ -38,5 +41,13 @@ public class Student{
             }
         }
         System.out.println("set = " + set);
+    }
+}
+
+
+class TestAbstractClass extends AbstractClass{
+    @Override
+    public void test(){
+        System.out.println("抽象类方法是可以复用的哟。");
     }
 }
