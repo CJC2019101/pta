@@ -1,4 +1,4 @@
-package PTA.pta1004.modle;
+package PTA.bGrade.pta1004.modle;
 
 /**
  * @author JianfeiChen

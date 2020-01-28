@@ -1,4 +1,4 @@
-package PTA.self;
+package PTA.bGrade.self;
 
 import java.util.ArrayList;
 import java.util.Collections;

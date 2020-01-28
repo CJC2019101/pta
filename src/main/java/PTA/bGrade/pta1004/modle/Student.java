@@ -1,9 +1,8 @@
-package PTA.pta1004.modle;
+package PTA.bGrade.pta1004.modle;
 
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
-import java.util.TreeSet;
 
 /**
  * @author JianfeiChen

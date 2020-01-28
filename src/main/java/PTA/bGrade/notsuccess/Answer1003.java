@@ -1,4 +1,4 @@
-package PTA.notsuccess;
+package PTA.bGrade.notsuccess;
 
 import java.util.Scanner;
 

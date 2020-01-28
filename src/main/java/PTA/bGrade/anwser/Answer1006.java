@@ -1,4 +1,4 @@
-package PTA.anwser;
+package PTA.bGrade.anwser;
 
 import java.util.Scanner;
 

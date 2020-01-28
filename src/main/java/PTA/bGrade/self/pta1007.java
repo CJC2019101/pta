@@ -1,13 +1,13 @@
-package PTA.anwser;
+package PTA.bGrade.self;
 
 import java.util.Scanner;
 
 /**
  * @author JianfeiChen
- * @date 2020/1/28 11:29
- * @Description PTA.anwser
+ * @date 2020/1/19 14:33
+ * @Description 求相邻且差为2的素数个数。
  */
-public class Answer1007 {
+public class pta1007 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

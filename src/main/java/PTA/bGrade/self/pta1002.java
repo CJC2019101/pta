@@ -1,4 +1,4 @@
-package PTA.self;
+package PTA.bGrade.self;
 
 import java.math.BigInteger;
 import java.util.Arrays;
