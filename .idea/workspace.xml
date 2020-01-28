@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5440ac8d-0e19-4d75-a069-383764fdc25a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PTA/self/pta1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PTA/self/pta1006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PTA/self/pta1006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PTA/self/pta1007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PTA/self/pta1007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PTA/self/pta1006.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PTA/self/pta1006.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,17 +20,7 @@
     <favorites_list name="pta" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTA/self/pta1008.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,6 +57,8 @@
         <option value="$PROJECT_DIR$/src/main/java/PTA/self/pta1007.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/PTA/self/pta1008.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PTA/anwser/Answer1008.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PTA/anwser/Answer1007.java" />
       </list>
     </option>
   </component>
@@ -139,6 +128,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="PTA" type="462c0819:PsiDirectoryNode" />
+              <item name="anwser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pta" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PTA" type="462c0819:PsiDirectoryNode" />
               <item name="self" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -153,13 +151,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../xdml/convert-to-getter-setter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -267,7 +265,7 @@
       <workItem from="1579404793152" duration="11938000" />
       <workItem from="1579448801028" duration="369000" />
       <workItem from="1579485057597" duration="3917000" />
-      <workItem from="1580180625276" duration="1163000" />
+      <workItem from="1580180625276" duration="2682000" />
     </task>
     <task id="LOCAL-00001" summary="foreach 修改">
       <created>1578391445936</created>
@@ -280,7 +278,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55947000" />
+    <option name="totallyTimeSpent" value="57466000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -293,9 +291,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.35198134" visible="true" weight="0.18154311" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.35198134" visible="true" weight="0.21406959" />
       <window_info id="Structure" order="1" sideWeight="0.72517323" side_tool="true" weight="0.25869894" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -304,12 +301,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.64801866" side_tool="true" weight="0.17927383" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.062295083" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23934427" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41147542" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6622951" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6622951" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -595,13 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/self/pta1007.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PTA/self/pta1006.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -620,10 +610,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/anwser/Answer1008.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/anwser/Answer1007.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PTA/self/pta1008.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
+        <state relative-caret-position="-130">
           <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/self/pta1007.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
