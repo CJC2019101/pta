@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5440ac8d-0e19-4d75-a069-383764fdc25a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PTA/anwser/Answer1006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PTA/self/pta1006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PTA/self/pta1008.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PTA/pta1004/modle/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PTA/pta1004/modle/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PTA/pta1004/modle/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PTA/pta1004/modle/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PTA/self/pta1005.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PTA/self/pta1005.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PTA/self/pta1006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PTA/self/pta1006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PTA/self/pta1007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PTA/self/pta1007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTA/self/pta1006.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PTA/self/pta1006.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,13 +19,16 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pta" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTA/self/pta1006.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PTA/self/pta1008.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="50">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -65,6 +67,9 @@
         <option value="$PROJECT_DIR$/src/main/java/PTA/pta1004/modle/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTA/anwser/Answer1006.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTA/self/pta1006.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PTA/self/pta1007.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/PTA/self/pta1008.java" />
       </list>
     </option>
   </component>
@@ -84,10 +89,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="234" />
-    <option name="y" value="70" />
-    <option name="width" value="832" />
-    <option name="height" value="520" />
+    <option name="x" value="-7" />
+    <option name="width" value="1374" />
+    <option name="height" value="732" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -95,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,21 +139,13 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="PTA" type="462c0819:PsiDirectoryNode" />
-              <item name="anwser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pta" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PTA" type="462c0819:PsiDirectoryNode" />
               <item name="self" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -158,13 +153,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../xdml/convert-to-getter-setter" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,20 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.pta1006">
-    <configuration name="Answer1005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PTA.anwser.Answer1005" />
-      <module name="pta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PTA.anwser.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.pta1008">
     <configuration name="Answer1006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PTA.anwser.Answer1006" />
       <module name="pta" />
@@ -218,19 +200,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pta1005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PTA.self.pta1005" />
-      <module name="pta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PTA.self.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="pta1006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PTA.self.pta1006" />
       <module name="pta" />
@@ -244,13 +213,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pta1007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PTA.self.pta1007" />
+      <module name="pta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PTA.self.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pta1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PTA.self.pta1008" />
+      <module name="pta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PTA.self.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pta1008" />
+        <item itemvalue="Application.pta1007" />
         <item itemvalue="Application.pta1006" />
         <item itemvalue="Application.Answer1006" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Answer1005" />
-        <item itemvalue="Application.pta1005" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +264,10 @@
       <workItem from="1578362504471" duration="21560000" />
       <workItem from="1578448293063" duration="1671000" />
       <workItem from="1578990647325" duration="189000" />
-      <workItem from="1579404793152" duration="4205000" />
+      <workItem from="1579404793152" duration="11938000" />
+      <workItem from="1579448801028" duration="369000" />
+      <workItem from="1579485057597" duration="3917000" />
+      <workItem from="1580180625276" duration="1163000" />
     </task>
     <task id="LOCAL-00001" summary="foreach 修改">
       <created>1578391445936</created>
@@ -282,31 +280,41 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42765000" />
+    <option name="totallyTimeSpent" value="55947000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.2735632" visible="true" weight="0.19742814" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.35198134" visible="true" weight="0.18154311" />
       <window_info id="Structure" order="1" sideWeight="0.72517323" side_tool="true" weight="0.25869894" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.64801866" side_tool="true" weight="0.17927383" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22131148" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3147541" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.062295083" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41147542" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35409835" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6622951" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -363,6 +371,25 @@
         <watch expression="sb.toStringCache" language="JAVA" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>29</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>23</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>30</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -447,13 +474,6 @@
             <element signature="e#35824#35825#0" expanded="true" />
             <element signature="e#35852#35853#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="1470" selection-start-line="1470" selection-end-line="1470" />
         </state>
       </provider>
     </entry>
@@ -565,10 +585,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/self/pta1007.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PTA/self/pta1006.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="500">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="3098" column="25" lean-forward="true" selection-start-line="3098" selection-start-column="25" selection-end-line="3098" selection-end-column="25" />
+          <folding>
+            <element signature="e#121727#121728#0" expanded="true" />
+            <element signature="e#121769#121770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/self/pta1008.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>

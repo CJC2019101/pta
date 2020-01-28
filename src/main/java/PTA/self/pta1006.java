@@ -9,7 +9,6 @@ import java.util.Scanner;
  */
 public class pta1006 {
 
-//    private StringBuffer sb = new StringBuffer();
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -18,6 +17,7 @@ public class pta1006 {
             otherStyle(integer);
         }
     }
+
 
     public static void otherStyle(int integer) {
         StringBuffer sb = new StringBuffer();
