@@ -17,10 +17,10 @@ public class pta1010 {
             zs = reader.nextInt();
             xs = reader.nextInt();
             if (zs * xs != 0) {
-                if (bool){
+                if (bool) {
                     System.out.print(" ");
-                }else {
-                    bool=true;
+                } else {
+                    bool = true;
                 }
                 System.out.print(zs * xs + " " + (xs - 1));
             }
