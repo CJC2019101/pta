@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5440ac8d-0e19-4d75-a069-383764fdc25a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1014.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1012$Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1012$Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1012.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1012.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,28 +24,12 @@
     <favorites_list name="pta" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1012.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="106" selection-start-line="106" selection-end-line="106" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/anwser/Answer1012.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1014.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-201">
-              <caret line="81" column="40" lean-forward="true" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#362#371#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="281">
+              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -90,6 +79,8 @@
         <option value="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1011.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTA/bGrade/anwser/Answer1012.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1012.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1013.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1014.java" />
       </list>
     </option>
   </component>
@@ -122,7 +113,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,7 +153,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bGrade" type="462c0819:PsiDirectoryNode" />
-              <item name="anwser" type="462c0819:PsiDirectoryNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pta" type="b2602c69:ProjectViewProjectNode" />
@@ -173,11 +163,13 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bGrade" type="462c0819:PsiDirectoryNode" />
               <item name="self" type="462c0819:PsiDirectoryNode" />
+              <item name="pta1004.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PTA1012">
+  <component name="RunManager" selected="Application.PTA1014">
     <configuration name="Answer1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PTA.bGrade.anwser.Answer1012" />
       <module name="pta" />
@@ -244,8 +236,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pta1009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PTA.bGrade.self.pta1009" />
+    <configuration name="PTA1013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PTA.bGrade.self.PTA1013" />
       <module name="pta" />
       <extension name="coverage">
         <pattern>
@@ -257,8 +249,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pta1010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PTA.bGrade.self.pta1010" />
+    <configuration name="PTA1014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PTA.bGrade.self.PTA1014" />
       <module name="pta" />
       <extension name="coverage">
         <pattern>
@@ -272,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PTA1014" />
+        <item itemvalue="Application.PTA1013" />
         <item itemvalue="Application.PTA1012" />
         <item itemvalue="Application.Answer1012" />
         <item itemvalue="Application.PTA1011" />
-        <item itemvalue="Application.pta1010" />
-        <item itemvalue="Application.pta1009" />
       </list>
     </recent_temporary>
   </component>
@@ -306,6 +298,12 @@
       <workItem from="1580186426785" duration="116000" />
       <workItem from="1580824409728" duration="69000" />
       <workItem from="1583026656744" duration="17139000" />
+      <workItem from="1583068810866" duration="1392000" />
+      <workItem from="1583156480722" duration="1636000" />
+      <workItem from="1583282025907" duration="1577000" />
+      <workItem from="1583453785962" duration="748000" />
+      <workItem from="1584185774725" duration="7649000" />
+      <workItem from="1584858881421" duration="6378000" />
     </task>
     <task id="LOCAL-00001" summary="foreach 修改">
       <created>1578391445936</created>
@@ -318,7 +316,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77670000" />
+    <option name="totallyTimeSpent" value="97050000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -333,24 +331,24 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.325" weight="0.18683812" />
-      <window_info id="Structure" order="1" sideWeight="0.675" side_tool="true" weight="0.1482602" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.32786885" weight="0.10514372" />
+      <window_info id="Structure" order="1" sideWeight="0.6721311" side_tool="true" weight="0.1323752" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.64801866" side_tool="true" weight="0.17927383" />
+      <window_info id="Favorites" order="6" sideWeight="0.66721314" side_tool="true" weight="0.100605145" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28032786" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42786884" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.09016393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31311476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4737705" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21147542" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -400,6 +398,12 @@
           <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/JAVA_JDK8.0/src.zip!/java/lang/Math.java</url>
+          <line>341</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -411,6 +415,33 @@
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>(paramCode == 1 )&amp;&amp; chars2[i] == chars1[i] &amp;&amp; (chars1[i] &gt;= 'A' &amp;&amp; chars1[i] &lt;= 'N') || (chars1[i] &gt;= '0' &amp;&amp; chars1[i] &lt;= '9');</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(paramCode == 1 )&amp;&amp; chars2[i] == chars1[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(paramCode == 1 )</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>paramCode == 1 )&amp;&amp; chars2[i] == chars1[i] &amp;&amp; (chars1[i] &gt;= 'A' &amp;&amp; chars1[i] &lt;= 'N') || (chars1[i] &gt;= '0' &amp;&amp; chars1[i] &lt;= '9');</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>paramCode == 1 )&amp;&amp; chars2[i] == chars1[i] &amp;&amp; (chars1[i] &gt;= 'A' &amp;&amp; chars1[i] &lt;= 'N') || (chars1[i] &gt;= '0' &amp;&amp; chars1[i] &lt;= '9')</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="setValue">
       <expression>
         <expression-string>29</expression-string>
@@ -439,36 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
           <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/pta1004.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Student#1;class#Student#0" />
-            <element signature="e#1671#1672#0" expanded="true" />
-            <element signature="e#1723#1724#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/pta1003.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/pta1002.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -547,16 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/pta1005.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/pta1004/modle/AbstractClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -596,13 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/pta1006.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -625,13 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-130">
           <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/pta1007.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
@@ -720,24 +697,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1012.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/anwser/Answer1012.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        <state relative-caret-position="-81">
+          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/anwser/Answer1012.java">
+    <entry file="jar://E:/JAVA_JDK8.0/jre/lib/rt.jar!/java/io/File.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
-          <caret line="81" column="40" lean-forward="true" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
+        <state>
+          <folding>
+            <element signature="e#0#21896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="40" column="62" selection-start-line="40" selection-start-column="62" selection-end-line="40" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1012.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3590">
+          <caret line="138" column="1" lean-forward="true" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#362#371#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/pta1002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/pta1003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/pta1004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Student#1;class#Student#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/pta1005.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/pta1006.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/pta1007.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="269" column="32" selection-start-line="269" selection-start-column="32" selection-end-line="269" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="338" column="27" selection-start-line="338" selection-start-column="27" selection-end-line="338" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1013.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="5516" column="26" selection-start-line="5516" selection-start-column="26" selection-end-line="5516" selection-end-column="26" />
+          <folding>
+            <element signature="e#153583#153584#0" expanded="true" />
+            <element signature="e#153616#153617#0" expanded="true" />
+            <element signature="e#187629#187630#0" expanded="true" />
+            <element signature="e#187672#187673#0" expanded="true" />
+            <element signature="e#190944#190945#0" expanded="true" />
+            <element signature="e#190987#190988#0" expanded="true" />
+            <element signature="e#195916#195917#0" expanded="true" />
+            <element signature="e#195987#195988#0" expanded="true" />
+            <element signature="e#197464#197465#0" expanded="true" />
+            <element signature="e#197503#197504#0" expanded="true" />
+            <element signature="e#198787#198788#0" expanded="true" />
+            <element signature="e#198862#198863#0" expanded="true" />
+            <element signature="e#222462#222463#0" expanded="true" />
+            <element signature="e#222515#222516#0" expanded="true" />
+            <element signature="e#242085#242086#0" expanded="true" />
+            <element signature="e#242128#242129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1014.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
