@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5440ac8d-0e19-4d75-a069-383764fdc25a" name="Default Changelist" comment="" />
+    <list default="true" id="5440ac8d-0e19-4d75-a069-383764fdc25a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,20 +38,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="70">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1222">
-              <caret line="343" column="63" selection-start-line="343" selection-start-column="63" selection-end-line="343" selection-end-column="63" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -158,7 +152,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -298,7 +292,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98017000" />
+    <option name="totallyTimeSpent" value="99408000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -326,16 +320,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.61639345" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.55737704" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.70163935" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.647541" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Word Book" order="6" side_tool="true" weight="0.32980332" />
@@ -482,14 +476,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PTA/notsuccess.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/PTA/success/j.java" />
     <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/util/List.java">
@@ -865,6 +851,61 @@
           <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="346" column="63" selection-start-line="346" selection-start-column="63" selection-end-line="346" selection-end-column="63" />
+          <folding>
+            <element signature="e#19634#19639#0" expanded="true" />
+            <element signature="e#19639#19644#0" expanded="true" />
+            <element signature="e#19668#19673#0" expanded="true" />
+            <element signature="e#19673#19678#0" expanded="true" />
+            <element signature="e#19690#19694#0" expanded="true" />
+            <element signature="e#19700#19705#0" expanded="true" />
+            <element signature="e#19705#19710#0" expanded="true" />
+            <element signature="e#19721#19725#0" expanded="true" />
+            <element signature="e#19746#19750#0" expanded="true" />
+            <element signature="e#19756#19761#0" expanded="true" />
+            <element signature="e#19761#19766#0" expanded="true" />
+            <element signature="e#19777#19781#0" expanded="true" />
+            <element signature="e#19989#19994#0" expanded="true" />
+            <element signature="e#19994#19999#0" expanded="true" />
+            <element signature="e#20423#20428#0" expanded="true" />
+            <element signature="e#20428#20433#0" expanded="true" />
+            <element signature="e#20457#20462#0" expanded="true" />
+            <element signature="e#20462#20467#0" expanded="true" />
+            <element signature="e#20479#20483#0" expanded="true" />
+            <element signature="e#20489#20494#0" expanded="true" />
+            <element signature="e#20494#20499#0" expanded="true" />
+            <element signature="e#20510#20514#0" expanded="true" />
+            <element signature="e#20535#20539#0" expanded="true" />
+            <element signature="e#20545#20550#0" expanded="true" />
+            <element signature="e#20550#20555#0" expanded="true" />
+            <element signature="e#20566#20570#0" expanded="true" />
+            <element signature="e#20777#20782#0" expanded="true" />
+            <element signature="e#20782#20787#0" expanded="true" />
+            <element signature="e#20811#20816#0" expanded="true" />
+            <element signature="e#20816#20821#0" expanded="true" />
+            <element signature="e#20833#20837#0" expanded="true" />
+            <element signature="e#20843#20848#0" expanded="true" />
+            <element signature="e#20848#20853#0" expanded="true" />
+            <element signature="e#20864#20868#0" expanded="true" />
+            <element signature="e#20889#20893#0" expanded="true" />
+            <element signature="e#20899#20904#0" expanded="true" />
+            <element signature="e#20904#20909#0" expanded="true" />
+            <element signature="e#20920#20924#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
   </component>
   <component name="masterDetails">
