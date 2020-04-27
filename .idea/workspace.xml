@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5440ac8d-0e19-4d75-a069-383764fdc25a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1012$Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1012$Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1012.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1012.class" afterDir="false" />
-    </list>
+    <list default="true" id="5440ac8d-0e19-4d75-a069-383764fdc25a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +9,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -26,10 +33,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1014.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-592">
-              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="190">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1222">
+              <caret line="343" column="63" selection-start-line="343" selection-start-column="63" selection-end-line="343" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -112,7 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,53 +140,18 @@
             <path>
               <item name="pta" type="b2602c69:ProjectViewProjectNode" />
               <item name="pta" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pta" type="b2602c69:ProjectViewProjectNode" />
               <item name="pta" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pta" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pta" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bGrade" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pta" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bGrade" type="462c0819:PsiDirectoryNode" />
-              <item name="self" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pta" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bGrade" type="462c0819:PsiDirectoryNode" />
-              <item name="self" type="462c0819:PsiDirectoryNode" />
-              <item name="pta1004.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,9 +298,9 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97343000" />
+    <option name="totallyTimeSpent" value="98017000" />
   </component>
-  <component name="TodoView" selected-index="1">
+  <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -330,7 +312,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.32786885" weight="0.10514372" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.32786885" weight="0.15885022" />
       <window_info id="Structure" order="1" sideWeight="0.6721311" side_tool="true" weight="0.1323752" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -344,16 +326,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.61639345" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.61639345" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.6557377" />
+      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.70163935" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.32980332" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Word Book" order="6" side_tool="true" weight="0.32980332" />
@@ -387,6 +369,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -487,7 +483,12 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PTA/notsuccess.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/PTA/success/j.java" />
