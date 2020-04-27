@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5440ac8d-0e19-4d75-a069-383764fdc25a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PTA/bGrade/annotation/Description.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PTA/bGrade/anwser/Answer1020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1020_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTA/bGrade/anwser/Answer1020.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PTA/bGrade/anwser/Answer1020.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1020$MoonCake.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1020$MoonCake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1020.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1020.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTA/bGrade/self/PTA1020_2.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,62 +25,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1020.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+              <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#726#727#0" expanded="true" />
-                <element signature="e#791#792#0" expanded="true" />
-                <element signature="e#849#850#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#703#704#0" expanded="true" />
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#819#820#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="475" column="32" selection-start-line="475" selection-start-column="22" selection-end-line="475" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/util/Comparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/anwser/Answer1020.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="59" column="9" lean-forward="true" selection-end-line="64" />
+            <state relative-caret-position="105">
+              <caret line="45" column="24" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#742#743#0" expanded="true" />
                 <element signature="e#805#806#0" expanded="true" />
                 <element signature="e#1164#1170#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1020_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,6 +74,15 @@
                 <element signature="e#6210#6211#0" expanded="true" />
                 <element signature="e#6267#6268#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/util/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -169,8 +149,8 @@
         <option value="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1019.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTA/bGrade/annotation/Description.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1020_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1020.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTA/bGrade/anwser/Answer1020.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1020.java" />
       </list>
     </option>
   </component>
@@ -244,6 +224,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="PTA" type="462c0819:PsiDirectoryNode" />
               <item name="bGrade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pta" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PTA" type="462c0819:PsiDirectoryNode" />
+              <item name="bGrade" type="462c0819:PsiDirectoryNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -391,7 +381,7 @@
       <workItem from="1587261138319" duration="6391000" />
       <workItem from="1587377279952" duration="4703000" />
       <workItem from="1587456123284" duration="29000" />
-      <workItem from="1587949596065" duration="11645000" />
+      <workItem from="1587949596065" duration="14658000" />
     </task>
     <task id="LOCAL-00001" summary="foreach 修改">
       <created>1578391445936</created>
@@ -404,7 +394,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151036000" />
+    <option name="totallyTimeSpent" value="154049000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -419,7 +409,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.33007812" weight="0.10590015" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.33007812" weight="0.18456884" />
       <window_info id="Structure" order="1" sideWeight="0.6699219" side_tool="true" weight="0.11270802" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -429,12 +419,12 @@
       <window_info anchor="bottom" id="Duplicates" weight="0.67704916" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1557377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5327869" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3262295" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2557377" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.2" />
@@ -1006,13 +996,6 @@ Arrays.toString(numbers)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1020_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -1030,29 +1013,36 @@ Arrays.toString(numbers)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1020.java">
+    <entry file="jar://E:/JAVA_JDK8.0/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#849#850#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="194">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/anwser/Answer1020.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="59" column="9" lean-forward="true" selection-end-line="64" />
+        <state relative-caret-position="105">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#742#743#0" expanded="true" />
             <element signature="e#805#806#0" expanded="true" />
             <element signature="e#1164#1170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTA/bGrade/self/PTA1020.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
           </folding>
         </state>
       </provider>
