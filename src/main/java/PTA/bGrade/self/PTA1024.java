@@ -19,7 +19,7 @@ public class PTA1024 {
         BigInteger zhiShu = new BigInteger(numbers[1]);
         Double pow = Math.pow(10d, zhiShu.doubleValue());
         BigDecimal res = jiShu.multiply(new BigDecimal(pow.toString()));
-        // toPlainString()输出不使用任何指数即，12000 ：12000而不是1.2*10^4
+        // toPlainString()输出不使用任何指数，即12000 ：12000而不是1.2*10^4
         System.out.println(res.toPlainString());
     }
 }
