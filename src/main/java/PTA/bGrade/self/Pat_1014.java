@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @date 2020/3/14 21:08
  * @Description 福尔摩斯的约会
  */
-public class PTA1014 {
+public class Pat_1014 {
     public static class PTA1014ParamCode {
         public static int day = 0;
         public static int hour = 1;

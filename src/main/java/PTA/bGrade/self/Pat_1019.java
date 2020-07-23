@@ -12,7 +12,7 @@ import java.util.Arrays;
  * 再按非递减排序，然后用第 1 个数字减第 2 个数字，将得到一个新的数字。一直重复这样做，我们很快会停在有
  * “数字黑洞”之称的 6174，这个神奇的数字也叫 Kaprekar 常数。
  */
-public class PTA1019 {
+public class Pat_1019 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));

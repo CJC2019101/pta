@@ -9,7 +9,7 @@ import java.util.List;
  * @date 2020/3/1 13:52
  * @Description 对整数分类
  */
-public class PTA1012 {
+public class Pat_1012 {
 
     public static class Number {
         private int number;

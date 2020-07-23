@@ -15,7 +15,7 @@ import java.util.LinkedList;
  * @Description 给定 L 为 1→2→3→4→5→6，K 为 3，则输出应该为 3→2→1→6→5→4；
  * 如果 K 为 4，则输出应该为 4→3→2→1→5→6，即最后不到 K 个元素不反转
  */
-public class PTA1025 {
+public class Pat_1025 {
 
     /**
      * 默认集合元素全部遍历

@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @date 2020/1/19 14:33
  * @Description 求相邻且差为2的素数个数。
  */
-public class pta1007 {
+public class Pat_1007 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

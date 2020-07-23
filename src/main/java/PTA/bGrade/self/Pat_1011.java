@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @date 2020/3/1 13:21
  * @Description 给定区间 [−2​^31 ,2​^31] 内的 3 个整数 A、B 和 C，请判断 A+B 是否大于 C。
  */
-public class PTA1011 {
+public class Pat_1011 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         int testNumber = reader.nextInt(); // 测试用例组个数

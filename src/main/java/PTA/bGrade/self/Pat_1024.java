@@ -11,7 +11,7 @@ import java.math.BigInteger;
  * @date 2020/5/21 9:58
  * @Description PTA.bGrade.self
  */
-public class PTA1024 {
+public class Pat_1024 {
     public static void main(String[] args) throws IOException {
         BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
         String[] numbers = sc.readLine().split("[e,E]");

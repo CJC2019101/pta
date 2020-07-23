@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @date 2020/4/17 11:03
  * @Description 剪刀石头布
  */
-public class PTA1018 {
+public class Pat_1018 {
     public static int jB = 0, jC = 0, jJ = 0; // 甲
     public static int yB = 0, yC = 0, yJ = 0; // 乙
 

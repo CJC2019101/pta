@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @date 2020/3/14 20:21
  * @Description 令 P​i表示第 i 个素数。现任给两个正整数 M≤N≤10​4，请输出 P​M 到 P​N的所有素数。
  */
-public class PTA1013 {
+public class Pat_1013 {
     public static boolean isPrimeNumber(int number) {
         if (number <= 3) {
             return (number == 2) || (number == 3);

@@ -14,7 +14,7 @@ import java.util.List;
  * @date 2020/4/20 18:08
  * @Description 规划最大月饼销售额策略
  */
-public class PTA1020 {
+public class Pat_1020 {
 
     @Description(desc = "月饼类")
     static class MoonCake implements Comparable<MoonCake> {

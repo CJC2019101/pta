@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
  * @date 2020/5/17 16:40
  * @Description PTA：组个最小数
  */
-public class PTA1023 {
+public class Pat_1023 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));

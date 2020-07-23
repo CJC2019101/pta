@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @Description 正整数 A 的“D A （为 1 位整数）部分”定义为由 A 中所有 D​A ​​  组成的新整数 P ​A ​​ 。
  * 例如：给定 A=3862767，D ​A ​​ =6，则 A 的“6 部分”P ​A ​​  是 66，因为 A 中有 2 个 6。
  */
-public class pta1016 {
+public class Pat_1016 {
     public static int result(char[] pa, char da) {
         int result = 0;
         for (Character p : pa) {

@@ -11,7 +11,7 @@ import java.util.Arrays;
  * @date 2020/4/27 16:11
  * @Description 给定 N=100311，则有 2 个 0，3 个 1，和 1 个 3。
  */
-public class PTA1021 {
+public class Pat_1021 {
 
     public static int calcNumber(char ch) {
         return ch - '0';

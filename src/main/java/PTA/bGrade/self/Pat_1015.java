@@ -13,7 +13,7 @@ import java.util.List;
  * @Description 现给出一批考生的德才分数，请根据司马光的理论给出录取排名。
  */
 
-public class PTA1015 {
+public class Pat_1015 {
 
     public static class Student implements Comparable<Student> {
         private String id; // 学号
