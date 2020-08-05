@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @date 2020/3/1 10:08
  * @Description 设计函数求一元多项式的导数。
  */
-public class pta1010 {
+public class Pat_1010 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         boolean bool = false;

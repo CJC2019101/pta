@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author JianfeiChen
  * @date 2019/12/31 10:51
  */
-public class pta1002 {
+public class Pat_1002 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         Long n = reader.nextLong();

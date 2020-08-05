@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @date 2020/1/28 11:04
  * @Description PTA.self
  */
-public class pta1008 {
+public class Pat_1008 {
     public static void main(String[] args) {
         int n; // 数组长度
         int m; // 右移长度

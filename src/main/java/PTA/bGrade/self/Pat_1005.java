@@ -13,7 +13,7 @@ import java.util.Set;
  * @date 2020/1/7 10:48
  * @Description PTA.self 继续(3n+1)猜想
  */
-public class pta1005 {
+public class Pat_1005 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         List<Integer> callatz = new ArrayList<>(); // 给定的序列

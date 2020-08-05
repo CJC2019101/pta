@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @date 2020/1/19 11:34
  * @Description 换个格式输出整数，百位：B、十位：S、个位：1~n表示（n<10）。
  */
-public class pta1006 {
+public class Pat_1006 {
 
 
     public static void main(String[] args) {

@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author JianfeiChen
  * @date 2019/12/31 16:03
  */
-public class pta1003 {
+public class Pat_1003 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int len = sc.nextInt();

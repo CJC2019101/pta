@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @date 2020/1/7 10:02
  * @Description 成绩排名
  */
-public class pta1004 {
+public class Pat_1004 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         List<Student> students = new ArrayList<Student>();
